@@ -24,4 +24,8 @@
 - No matter the circumstances you can always improve. You can always start improving with yourself. You can always start improving today.
 - Methodologies don't work like programs. People aren't computer. Every team does XP differently with varying degrees of success.
 - What's right for today may be wrong for tomorrow
+
+## Skill / Technique
+
 - Practices are the things you do day-to-day
+- Technique matters
